@@ -124,6 +124,10 @@ beginning C<use Acme::Range> to fix it.
 
 =head1 SEE ALSO
 
+List::Maker, which turns out to have already existed before I wrote this.
+You should probably use that if you don't find the whole concept highly
+icky.
+
 =head1 AUTHOR
 
 All code and documentation by Peter Corlett <abuse@cabal.org.uk>.

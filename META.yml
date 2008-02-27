@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:                Acme-Range
-version:             0.003
+version:             0.004
 abstract:            Turns a long list into an easy-to-navigate tree
 license:             ~
 generated_by:        ExtUtils::MakeMaker version 6.36

@@ -17,7 +17,7 @@ warn "Note: ExtUtils::MakeMaker::Coverage not available, can't 'make testcover'\
 WriteMakefile(
               ABSTRACT => 'Turns a long list into an easy-to-navigate tree',
 	      NAME     => 'Acme::Range',
-	      VERSION  => '0.003',
+	      VERSION  => '0.004',
               PREREQ_PM => {
                             'Regexp::Common' => undef,
                            },
